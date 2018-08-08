@@ -1,6 +1,7 @@
 # ABND-Proj2-VolleyBall-Scoring
 
-The second project in the Android Basics nanodegree by Google and Udacity. It is an application on the learnt concepts of binding the layout and java code in the second course "User Input".
+The second project in the Android Basics nanodegree by Google and Udacity: "**Score Kepper App**".
+It is an application on the learnt concepts of binding the layout and java code in the second course "User Input".
 
 ***
 
